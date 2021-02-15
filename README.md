@@ -1,4 +1,4 @@
-#Mixed Messages Portfolio Project
+# Mixed Messages Portfolio Project
 
 ## Project Goal
 In this project I will create random quotes and assign a random famous person to it.
