@@ -1,5 +1,12 @@
 # Mixed Messages Portfolio Project - Random Quote Generator
 
+## Contents
+* [About](#about)
+* [Overview](#overview)
+* [Implementation](#implementation)
+* [Technologies](#technologies)
+* [Setup](#setup)
+
 ## About
 First project of the codecademy pro career path **"Full Stack-Engineer"**. After completing Node, JS and version control with GitHub we were tasked with creating an app that generates randomized messages using Javascript. I decided to add a bit of HTML and css on top of that to make it more user friendly.
 
@@ -40,7 +47,14 @@ Statement - Question - Question - By
 
 ## Technologies
 Project is created with:
+* Node.JS (Needs Version)
 * bootstrap 5.0.0-beta2
 
 ## Setup
 To run this project, simply download all files that come with project and open index.html.
+
+Or in GitBash type:
+
+```
+$ node .\scripts.js (Need to add feature)
+```
