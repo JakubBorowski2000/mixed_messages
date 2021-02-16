@@ -19,9 +19,24 @@ For this project, you will build a message generator program. Every time a user 
 ## Implementation
 I decided to create a random quote generator that has multiple questions and statements to choose from as well as a list of famous celebrities to assign the quote to. The program first creates a random sentence chain of length between 1 - 3. For each number in the chain the code will assign either a question or a statement to it:
 > Statement - Question - Statement <br>
-Question - Statement
-Question - Question
+Question - Statement <br>
+Question - Question <br>
 etc.
+
+The code then takes the array with this chain and creates a quote depending on the word there. If the word refers to a question a random question is added to the quote, the same is with the statement. Once that is done a random celebrity is added on to the end.
+
+The quotes are outputted like this:
+> Is free will real or just an illusion? The first computer was invented in the 1940s. - Eddie Murphy
+
+Question - Statement - By
+
+>There's a giant fish with a transparent head. - Terrence Howard
+
+Statement - By
+
+>Life is short. Does absolute power corrupt absolutely? Is the meaning of life the same for animals and humans? - Rachel Weisz
+
+Statement - Question - Question - By
 
 ## Technologies
 Project is created with:
