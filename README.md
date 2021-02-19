@@ -47,14 +47,14 @@ Statement - Question - Question - By
 
 ## Technologies
 Project is created with:
-* Node.JS (Needs Version)
+* Node.JS v14.15.4
 * bootstrap 5.0.0-beta2
 
 ## Setup
 To run this project, simply download all files that come with project and open index.html.
 
-Or in GitBash type:
+Or in GitBash type when inside the mixed_messages folder:
 
 ```
-$ node .\scripts.js (Need to add feature)
+$ node .\nodeScript.js
 ```
